@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/ani182/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/ani182/se_hello_printer_app
+    
 Simple Flask App
 ================
 
