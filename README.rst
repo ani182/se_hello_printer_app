@@ -1,6 +1,10 @@
 .. image:: https://travis-ci.org/ani182/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/ani182/se_hello_printer_app
     
+.. image:: https://app.statuscake.com/button/index.php?Track=8td00jug6S&Days=1&Design=2
+    :target: https://www.statuscake.com
+
+    
 Simple Flask App
 ================
 
