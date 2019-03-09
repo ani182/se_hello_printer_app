@@ -12,6 +12,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
     mkvirtualenv wsb-simple-flask-app
     pip install -r requirements.txt
     pip install -r test_requirements.txt
+    sudo apt install python3-flask
 
 - Uruchamianie applikacji:
 
