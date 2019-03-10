@@ -7,7 +7,7 @@ install:
   - make deps
 script:
   - make lint
-  - make test_xunit
+  - make test_cov
   - make docker_build
   - make docker_push
 deploy:
